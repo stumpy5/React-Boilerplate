@@ -1,7 +1,7 @@
 {
   "name": "react-boilerplate",
   "scripts": {
-    "dev": "webpack --watch"
+    "dev": "webpack-dev-server"
   },
   "dependencies": {
     "react": "^16.12.0",

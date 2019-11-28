@@ -20,7 +20,7 @@ module.exports = {
     mode: "development",
     devServer: {
         port: 3000,
-        baseContent: "_Prod",
+        contentBase: "_Prod",
         overlay: true
     }
 }
